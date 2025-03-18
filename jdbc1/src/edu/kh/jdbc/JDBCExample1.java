@@ -26,7 +26,7 @@ public class JDBCExample1 {
 		
 		/* 1. JDBC 객체 참조용 변수 선언 */
 		
-		// java,sql.connection
+		// java.sql.connection
 		// 특정 DBMS와 연결하기 위한 정보를 저장한 객체
 		// == DBeaver에서 사용하는 DB 연결과 같은 역할의 객체
 		// (DB 서버 주소, 포트 번호, DB 이름, 계정명, 비밀번호)
